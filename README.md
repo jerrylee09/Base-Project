@@ -1,5 +1,5 @@
-Files that are included in this git repo
+# Files that are included in this git repo
 
-Index.html
-app.js
-style.css
+1. Index.html
+2. app.js
+3. style.css
